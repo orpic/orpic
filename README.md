@@ -18,7 +18,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&locale=en" alt="orpic" /></p>
+<p  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&locale=en" alt="orpic" /></p>
 
 
 
