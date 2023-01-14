@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shobhit</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>  
 <br>
-<p  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&locale=en" alt="orpic" /></p>
+<p  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></p>
 <br>  
   
   
