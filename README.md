@@ -30,7 +30,7 @@
 
 <div align="center"><img src="./media/screeshot.png" /></div>
 
-<div align="center"> 🔗 Link this post by Ministry of Education on</div>
+<div align="center">🔗 Links to this post by Ministry of Education on their social media handles 🔗</div>
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/816797071666133/posts/3406182552727559)
