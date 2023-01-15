@@ -29,6 +29,6 @@
 <table width="100%">
 <tr>
 <td ><p>Hi kdl;aks kad sdla d;askd lsdlad;akld ;asdklasdk;aldkldas</p></td>
-<td ><img src="./media/screenshot.png" width="235" height="347" /></td>
+<td ><img src="./media/screenshot.png" width="313" height="463" /></td>
 </tr>
 </table>
