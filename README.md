@@ -25,16 +25,3 @@
 <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="logo" />
 <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="logo" />
 </div>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td >
-    See this post by Ministry of Education on
-        - ![Facebook](https://github.com/orpic)
-        - Intsagram
-        - Twitter
-
-</td>
-<td ><img src="./media/screenshot.png" width="313" height="463" /></td>
-</tr>
-</table>
