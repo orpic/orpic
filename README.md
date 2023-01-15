@@ -30,7 +30,6 @@
 <tr>
 <td >
     See this post by Ministry of Education on
-
         - ![Facebook](https://github.com/orpic)
         - Intsagram
         - Twitter
