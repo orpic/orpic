@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobhit</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>  
-<div  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></div>  
+<div  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></div>
 
 <div align="center" >
 <img src="https://img.shields.io/badge/React%20JS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="logo" />
@@ -26,3 +26,9 @@
 <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="logo" />
 </div>
 
+<table>
+<tr>
+<td>Hi</td>
+<td><img src="./media/screenshot.png" /></td>
+</tr>
+</table>
