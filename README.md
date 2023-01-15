@@ -31,9 +31,9 @@
 <td >
     See this post by Ministry of Education on
 
-    - Facebook
-    - Intsagram
-    - Twitter
+        - ![Facebook](https://github.com/orpic)
+        - Intsagram
+        - Twitter
 
 </td>
 <td ><img src="./media/screenshot.png" width="313" height="463" /></td>
