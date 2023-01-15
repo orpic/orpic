@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td>Hi</td>
-<td><img src="./media/screenshot.png" /></td>
+<td><p>Hi</p></td>
+<td><img src="./media/screenshot.png" width="235" height="347" /></td>
 </tr>
 </table>
