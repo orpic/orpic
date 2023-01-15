@@ -28,7 +28,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td >Hi kdl;aks kad s
+<td align="top" >Hi kdl;aks kad s
 dla d;askd l \n
 sdlad;akld ;asdklasdk;aldkldas</td>
 <td ><img src="./media/screenshot.png" width="313" height="463" /></td>
