@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="logo" />
 </div>
 
-<table border=none>
+<table border=0>
 <tr>
 <td width="50%"><p>Hi</p></td>
-<td width="50%"><img src="./media/screenshot.png" width="235" height="347" /></td>
+<td ><img src="./media/screenshot.png" width="235" height="347" /></td>
 </tr>
 </table>
