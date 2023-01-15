@@ -28,7 +28,7 @@
 
 <table width="100%">
 <tr>
-<td ><p>Hi kdl;aks kad sdla d;askd lsdlad;akld ;asdklasdk;aldkldas</p></td>
+<td >Hi kdl;aks kad sdla d;askd lsdlad;akld ;asdklasdk;aldkldas</td>
 <td ><img src="./media/screenshot.png" width="313" height="463" /></td>
 </tr>
 </table>
