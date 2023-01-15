@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="logo" />
 </div>
 
-<table border="0px" >
+<table border=none >
 <tr>
 <td >Hi kdl;aks kad sdla d;askd lsdlad;akld ;asdklasdk;aldkldas</td>
 <td ><img src="./media/screenshot.png" width="313" height="463" /></td>
