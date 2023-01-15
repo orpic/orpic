@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="logo" />
 </div>
 
-<h3 align="center">My social flare 🔥</h3>
+<h3 align="center">⚛ The app I built got a little attention ⚛</h3>
 
 <div align="center"><img src="./media/screeshot.png" /></div>
 
