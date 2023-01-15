@@ -4,21 +4,21 @@
 
 <div align="center" >
 <img src="https://img.shields.io/badge/React%20JS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="logo" />
-<img src="https://img.shields.io/badge/React-Router-cc80ff?style=for-the-badge&logo=react-router&logoColor=white" alt="logo" />
-<img src="https://img.shields.io/badge/redux-gray.svg?style=for-the-badge&logo=redux&logoColor=%3F7DF1E" alt="logo" />
+<img src="https://img.shields.io/badge/React%20Router-cc80ff?style=for-the-badge&logo=react-router&logoColor=white" alt="logo" />
+<img src="https://img.shields.io/badge/redux-ffaa77.svg?style=for-the-badge&logo=redux&logoColor=%3F7DF1E" alt="logo" />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo" />
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="logo" />
-<img src="https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white" alt="logo" />
+<img src="https://img.shields.io/badge/CSS%20Modules-orange.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white" alt="logo" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="logo" />
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="logo" />
+<img src="https://img.shields.io/badge/GitHub-green.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="logo" />
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="logo" />
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="logo" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="logo" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="logo" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-red.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="logo" />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="logo" />
