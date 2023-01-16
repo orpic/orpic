@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>  
+<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 <div  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></div>
 
 <div align="center" >
@@ -37,8 +37,7 @@
 
 </div>
 <br>
-<div align="center" >Before you go have a look at this - <a href="https://tee-rex-ecom.firebaseapp.com/" > tee-rex-ecom.firebaseapp.com </a></div>
-<div align="center" >Deployed on firebase hosting and continuous deployment setup with GitHub Actions</div>
-<div align="center" >Link to code repo - <a href="https://github.com/orpic/react-e-c" > orpic/react-e-c </a></div>
+<div align="center" ><h4>Before you go have a look at this - <a href="https://tee-rex-ecom.firebaseapp.com/" > tee-rex-ecom.firebaseapp.com </a></h4> Code - <a href="https://github.com/orpic/react-e-c" > orpic/react-e-c </a></div>
+<div align="center" >An e-commerce shop deployed on firebase hosting and continuous deployment setup with GitHub Actions</div>
 <br>
-<div align="center" >Link to portfolio - <a href="https://orpic.github.io" >orpic.github.io</a></div>
+<h3 align="center" >Link to portfolio - <a href="https://orpic.github.io" >orpic.github.io</a></h3>
