@@ -28,7 +28,7 @@
 
 <h3 align="center">My app got a little attention</h3>
 
-<div align="center"><a href="https://www.facebook.com/816797071666133/posts/3406182552727559" target="_blank" ><img src="./media/screeshot.png" width="70%"/></a></div>
+<div align="center"><a href="https://www.facebook.com/816797071666133/posts/3406182552727559" target="_blank" ><img src="./media/screeshot.png" width="60%"/></a></div>
 
 <div align="center">🔗 Links to this post by Ministry of Education on their social media handles 🔗</div>
 <div align="center">
