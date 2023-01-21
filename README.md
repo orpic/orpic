@@ -37,7 +37,4 @@
 <br>
 <h4 align="center" >Before you go have a look at this - <a href="https://tee-rex-ecom.firebaseapp.com/" > tee-rex-ecom.firebaseapp.com </a> Code - <a href="https://github.com/orpic/react-e-c" > orpic/react-e-c </a></h4>
 <div align="center" >An e-commerce shop deployed on firebase hosting and continuous deployment setup with GitHub Actions</div>
-<br>
-<br>
-<br>
-<h3 align="center" >Link to portfolio - <a href="https://orpic.github.io" >orpic.github.io</a></h3>
+
