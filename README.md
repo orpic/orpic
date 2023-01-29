@@ -39,5 +39,5 @@
 <h4 align="center" >Admin panel ui. Live demo - <a href="https://orpic.github.io/react-a-p/" >orpic.github.io/react-a-p</a> Code - <a href="https://github.com/orpic/react-a-p" >orpic/react-a-p</a></h4>
 
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orpic" alt="orpic" /><div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /><div>
 
