@@ -1,8 +1,8 @@
 <h4 align="center">Hi 👋, I'm Shobhit</h4>
-<h3 align="center" >E-commerce web app. Live demo - <a href="https://tee-rex-ecom.firebaseapp.com/" >tee-rex-ecom.firebaseapp.com</a> Code - <a href="https://github.com/orpic/react-e-c" >orpic/react-e-c</a></h3>
-<h3 align="center" >Admin panel ui. Live demo - <a href="https://orpic.github.io/react-a-p/" >orpic.github.io/react-a-p</a> Code - <a href="https://github.com/orpic/react-a-p" >orpic/react-a-p</a></h3>
-<div  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /><div>
 
+ <h4 align="center" >E-commerce web app. Live demo - <a href="https://tee-rex-ecom.firebaseapp.com/" >tee-rex-ecom.firebaseapp.com</a> Code - <a href="https://github.com/orpic/react-e-c" >orpic/react-e-c</a></h4>
+<h4 align="center" >Admin panel ui. Live demo - <a href="https://orpic.github.io/react-a-p/" >orpic.github.io/react-a-p</a> Code - <a href="https://github.com/orpic/react-a-p" >orpic/react-a-p</a></h4>
 <div align="center" >
 <img src="https://img.shields.io/badge/React%20JS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="logo" />
 <img src="https://img.shields.io/badge/React%20Router-cc80ff?style=for-the-badge&logo=react-router&logoColor=white" alt="logo" />
@@ -36,6 +36,5 @@
 
 </div>
 <br>
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /><div>
+<div  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></div>
 
