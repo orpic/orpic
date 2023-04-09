@@ -3,6 +3,7 @@
 
  <h4 align="center" >E-commerce web app. Live demo - <a href="https://tee-rex-ecom.firebaseapp.com/" >tee-rex-ecom.firebaseapp.com</a> Code - <a href="https://github.com/orpic/react-e-c" >orpic/react-e-c</a></h4>
 <h4 align="center" >Admin panel ui. Live demo - <a href="https://orpic.github.io/react-a-p/" >orpic.github.io/react-a-p</a> Code - <a href="https://github.com/orpic/react-a-p" >orpic/react-a-p</a></h4>
+ <p align="center" >old github profile - <a href="https://github.com/shobhit-umrao"> https://github.com/shobhit-umrao </a></p>
 <div align="center" >
 <img src="https://img.shields.io/badge/React%20JS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="logo" />
 <img src="https://img.shields.io/badge/React%20Router-cc80ff?style=for-the-badge&logo=react-router&logoColor=white" alt="logo" />
@@ -39,4 +40,5 @@
 <div  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></div>
  
 <h3 align="center" > DM me - <a href="https://www.instagram.com/shobhit_umrao/" >shobhit_umrao</a></h3>
+ 
 
