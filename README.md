@@ -39,6 +39,6 @@
 <br>
 <div  align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=great-gatsby&locale=en" alt="orpic" /></div>
  
-<h3 align="center" > DM on Instagram - <a href="https://www.instagram.com/shobhit_umrao/" >shobhit_umrao</a></h3>
+<h3 align="center" > DM - Instagram - <a href="https://www.instagram.com/shobhit_umrao/" >shobhit_umrao</a></h3>
  
 
