@@ -1,6 +1,6 @@
 <h4 align="center">Hi 👋, I'm Shobhit</h4>
 
- <h3 align="center">My 'AR' based app got a little attention</h3>
+ <h3 align="center">My 'Augmented Reality' based app got a little attention</h3>
 
 <div align="center">🔗 Links to post by Ministry of Education, Govt. of India 🔗</div>
 <div align="center">
