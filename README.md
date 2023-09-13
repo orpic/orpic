@@ -7,7 +7,7 @@
 ><br>
 > (<a href="http://taxiwars.in">Website↗</a> + Customer App ( <a href="https://play.google.com/store/apps/details?id=in.taxiwars.app.twa">Hybrid↗</a>, <a href="https://app.taxiwars.in">Web↗</a> ) + <a href="https://play.google.com/store/apps/details?id=in.taxiwars.driver.twa">Hybrid Driver App↗</a>)
 ><h2>My app got a little attention</h2>
-><p>A covid precautionary application built using <strong>Augmented Reality</strong> in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">C#</a>
+><p>A covid precautionary application built using <strong><a>Augmented Reality</a></strong> in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">C#</a>
 ><br>
 >Links to Appreciation post by Ministry of Education, Government of India - 
 ><div><a href="https://www.facebook.com/816797071666133/posts/3406182552727559" target="_blank" ><img src="https://img.shields.io/badge/Facebook↗-1877F2.svg?style=badge&logo=Facebook&logoColor=white" /></a> <a href="https://twitter.com/DrRPNishank/status/1281976438590070784" target="_blank" ><img src="https://img.shields.io/badge/Twitter↗-1DA1F2.svg?style=badge&logo=Twitter&logoColor=white" /></a> <a href="https://www.instagram.com/p/CCfqiKOpTTf/" target="_blank" ><img src="https://img.shields.io/badge/Instagram↗-E4405F.svg?style=badge&logo=Instagram&logoColor=white" /></a></div>
