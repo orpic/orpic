@@ -18,7 +18,6 @@
  - Added a feature in an extenstion for gnome45
  - <a href="https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/pull/394#issue-1892021693">Link to merged PR ↗</a>
 <br>
-<br>
 <hr>
 
 ><h2>My Live Projects</h2>
