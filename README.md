@@ -18,9 +18,10 @@
  - Added a feature in an extenstion for gnome45
  - <a href="https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/pull/394#issue-1892021693">Link to merged PR ↗</a>
 <br>
+<br>
 
 ><h2>My Live Projects</h2>
-><p></p>
+><h3><a href="">My Play Store ↗<a> </h3>
 ><br>
 E-commerce web app. Live demo - <a href="https://tee-rex-ecom.firebaseapp.com/" >tee-rex-ecom.firebaseapp.com</a> Code - <a href="https://github.com/orpic/react-e-c" >orpic/react-e-c</a>  
 Admin panel ui. Live demo - <a href="https://orpic.github.io/react-a-p/" >orpic.github.io/react-a-p</a> Code - <a href="https://github.com/orpic/react-a-p" >orpic/react-a-p</a>
