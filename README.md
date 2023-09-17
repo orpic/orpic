@@ -18,8 +18,10 @@
 
 <h4>Recent Open Source contribution</h4>
 
- - Added a feature in an extenstion for gnome45
- - <a href="https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/pull/394#issue-1892021693">Link to merged PR ↗</a>
+ - Feature + Bug fix in an extenstion for GNOME 45
+ - <a href="https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/issues/375#issuecomment-1715254011">Discussion ↗</a>
+ - <a href="https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/pull/394#issue-1892021693">Feature PR ( Merged ) ↗</a>
+ - <a href="https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator/pull/396">Bugfix PR ( Merged ) ↗</a>
 <br>
 <br>
 
