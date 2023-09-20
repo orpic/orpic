@@ -8,7 +8,7 @@
 ><br>
 > Stuff I built from scratch @ Taxiwars:
 ><br>
-> (<a href="http://taxiwars.in">Website↗</a> + Customer App ( <a href="https://play.google.com/store/apps/details?id=in.taxiwars.app.twa">Hybrid↗</a>, <a href="https://app.taxiwars.in">Web↗</a> ) + <a href="https://play.google.com/store/apps/details?id=in.taxiwars.driver.twa">Hybrid Driver App↗</a>)
+> (Customer App ( <a href="https://play.google.com/store/apps/details?id=in.taxiwars.app.twa">Hybrid↗</a>, <a href="https://app.taxiwars.in">Web↗</a> ) + <a href="https://play.google.com/store/apps/details?id=in.taxiwars.driver.twa">Hybrid Driver App↗</a> + <a href="http://taxiwars.in">Website↗</a>)
 ><h2>My app got a little attention</h2>
 ><p>A covid precautionary application built using <strong><a href="https://www.investopedia.com/terms/a/augmented-reality.asp">Augmented Reality</a></strong> in <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">C#</a>
 ><br>
