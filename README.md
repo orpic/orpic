@@ -1,10 +1,10 @@
 <h1>Shobhit Umrao</h1>
 
-><h2>PDF GPT Offline <a href="https://www.youtube.com/watch?v=_wVDiLCaiow">Video Demo </a>&nbsp; <a href="https://github.com/orpic/pdf-gpt-offline"> Source Code</a> </h2>
+><h4>PDF GPT Offline - <a href="https://www.youtube.com/watch?v=_wVDiLCaiow">Video Demo </a>&nbsp; <a href="https://github.com/orpic/pdf-gpt-offline"> - Source Code</a> </h4>
 ><h2>Front-end Developer (  React.js, Next.js, ... )</h2>
-><h2>My App Got a little Attention</h2>
->Links to Appreciation post by Ministry of Education, Government of India - 
-><div><a href="https://www.facebook.com/816797071666133/posts/3406182552727559" target="_blank" >Facebook↗</a> <a href="https://twitter.com/DrRPNishank/status/1281976438590070784" target="_blank" >Twitter↗</a> <a href="https://www.instagram.com/p/CCfqiKOpTTf/" target="_blank" >Instagram↗</a></div>
+><h3>My App Got a little Attention</h3>
+><h3>Links to Appreciation post by Ministry of Education, Government of India - </h3>
+><h3><div><a href="https://www.facebook.com/816797071666133/posts/3406182552727559" target="_blank" >Facebook↗</a> <a href="https://twitter.com/DrRPNishank/status/1281976438590070784" target="_blank" >Twitter↗</a> <a href="https://www.instagram.com/p/CCfqiKOpTTf/" target="_blank" >Instagram↗</a></div></h3>
 <img align="right"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=orpic&show_icons=true&theme=gotham&locale=en" alt="orpic"   width="400"/>
 
 ><h2>Recent Open Source contribution</h2>
