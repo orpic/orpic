@@ -1,6 +1,5 @@
 <h1>Shobhit Umrao</h1>
 
-><h4>PDF GPT Offline - <a href="https://www.youtube.com/watch?v=_wVDiLCaiow">Video Demo </a>&nbsp; <a href="https://github.com/orpic/pdf-gpt-offline"> - Source Code</a> </h4>
 ><h2>Front-end Developer (  React.js, Next.js, ... )</h2>
 ><h3>My App Got a little Attention</h3>
 ><h3>Links to Appreciation post by Ministry of Education, Government of India - </h3>
@@ -21,6 +20,12 @@
 > E-commerce web app. Live demo - <a href="https://tee-rex-ecom.firebaseapp.com/" >tee-rex-ecom.firebaseapp.com</a> Code - <a href="https://github.com/orpic/react-e-c" >orpic/react-e-c</a>  
 
 > Admin panel ui. Live demo - <a href="https://orpic.github.io/react-a-p/" >orpic.github.io/react-a-p</a> Code - <a href="https://github.com/orpic/react-a-p" >orpic/react-a-p</a>
+
+>PDF GPT Offline - <a href="https://www.youtube.com/watch?v=_wVDiLCaiow">Video Demo </a>&nbsp; <a href="https://github.com/orpic/pdf-gpt-offline"> - Source Code</a>
+
+>Image Processing using AI, ReactJS, NestJS,Full Stack - <a href="https://www.youtube.com/watch?v=73djB5WX3A8">Video Demo </a>&nbsp; <a href="https://github.com/orpic/ai-tool-image-editor"> - Source Code</a>
+
+>Drag n Drop , Mini page builder with HTML native drag drop api- <a href="https://mini-page-builder.web.app/"> Live Web app </a>&nbsp; <a href="https://github.com/orpic/mini-page-builder"> - Source Code</a>
 
 
 <br>
